@@ -1,0 +1,25 @@
+QPushButton {{
+    width: 80px;
+    height: 40px;
+    font-size: 16px
+}}
+QLabel{{
+    font-size: 20px;
+    color: violet;
+}}
+QComboBox{{
+    font-size: 20px;
+    color: violet;
+}}
+QComboBox QAbstractItemView{{
+    font-size: 20px;
+    color: violet;
+    border: none;
+}}
+QTextEdit{{
+    font-size: 20px;
+}}
+QLineEdit{{
+    font-size: 20px;
+    color: violet;
+}}
