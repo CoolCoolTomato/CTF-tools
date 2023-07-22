@@ -1,0 +1,8 @@
+base36==0.1.1
+base58==2.1.1
+base91==1.0.1
+numpy==1.25.0
+numpy==1.23.5
+PyQt5==5.15.9
+PyQt5_sip==12.11.0
+qt_material==2.14
