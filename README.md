@@ -3,6 +3,7 @@
 ### 使用方法
 #### 安装依赖项
 `cd Leaf`
+
 `pip install -r requirements.txt`
 #### 启动主程序
 `python main.py`
