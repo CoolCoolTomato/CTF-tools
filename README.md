@@ -5,6 +5,7 @@
 `pip install -r requirements.txt`
 #### 启动主程序
 `cd Leaf`
+
 `python main.py`
 
 ### 项目展示
